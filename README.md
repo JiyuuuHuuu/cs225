@@ -12,6 +12,7 @@ lab_memory:              70%
     memory leak for constructor and allocate
 lab_inheritance:         66.6%
     mem leak for pure virtual function and slice
+    (To fix: change parent class destructor to virtual)
 lab_quacks:              100%
 lab_trees:               100%
 lab_huffman:             100%
